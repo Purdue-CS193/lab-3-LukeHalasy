@@ -4,10 +4,10 @@ public class BuggyUtilClient {
         // First test case in Main
         // I made a change. Hell ya!
         System.out.println("Example 1: Make My Username");
-        System.out.println("In: first = " + "\"Sean\"" +
-                ", last = " + "\"Flannery\"");
+        System.out.println("In: first = " + "\"Luke\"" +
+                ", last = " + "\"Halasy\"");
         System.out.println("Out: " +
-        StringUtils.makePurdueUsername("Sean", "Flannery"));
+        StringUtils.makePurdueUsername("Luke", "Halasy"));
     }
 }
 
